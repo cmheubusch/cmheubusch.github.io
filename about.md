@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Professional & Academic Aspirations
 
-Thanks for stopping by my GitHub blog! This site was created in conjunction with the NCSU class **ST 558: Data Science for Statisticians.** I work full-time in government relations as a grassroots associate, -----
+Thanks for stopping by my GitHub blog! I created this site in conjunction with the NCSU class **ST 558: Data Science for Statisticians**, which I am enrolled in as the final component of my coursework for the graduate certificate in Applied Statistics & Data Management. My full-time work I work full-time in government relations as a grassroots associate, -----
 
 ### Hobbies & Dreams for the Future
 
