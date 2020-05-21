@@ -16,10 +16,10 @@ Though free time is precious and COVID-19 has limited society's movement, I have
 
 In the near furture, I hope to explore more of the outdoors, including: 
 
-* The Smokies *- I moved to North Carolina less than a year ago, and it's high time that I explore this beautiful state.*
+* The Smokies *- I moved to North Carolina nearly a year ago - it's high time that I explore this beautiful state!*
 * The Colorado Trail 
 * The John Muir Trail 
-* The Hayduke Trail *- A wild challenge, but I can aspire!*
+* The Hayduke Trail
 * Arches National Park
 * Yellowstone National Park
 * Glacier National Park
@@ -28,7 +28,9 @@ In the near furture, I hope to explore more of the outdoors, including:
 
 ![Glacier Hike, Iceland, June 2018.](/images/iceland%202018.png)
 
-In the meantime, my boyfriend and I have begun cultivating a fruit & vegetable garden - hot peppers, melons, three types of tomatoes, and cucumbers (to be used primarily for homemade pickles!) are the stars of the show, along with flowers such as zinnias, poppies, and coneflowers. We also recently began an effort to grow oyster mushrooms, though we'll likely not see the fruits of our labors for at least another 8-12 months. Additionally, I've been trying to prioritize reading over watching television; while I wouldn't sign myself up for a 24-hour, 100+ mile road race, I couldn't put down Dean Karnazes' memoir [*Ultramarathon Man*](https://www.goodreads.com/book/show/87632.Ultramarathon_Man), a fascinating account of his superhuman endurance pursuits. Next on the list? [*Doing Justice*](https://www.goodreads.com/en/book/show/43166269-doing-justice) by Preet Bharara. All that being said, I'm always open to suggestions for great hiking spots, gardening advice, and book recommendations! 
+In the meantime, my boyfriend and I have begun cultivating a fruit & vegetable garden - hot peppers, melons, three types of tomatoes, and cucumbers (to be used primarily for homemade pickles!) are the stars of the show, along with flowers such as zinnias, poppies, and coneflowers. We also recently began an effort to grow oyster mushrooms, though we'll likely not see the fruits of our labors for at least another 8-12 months. Additionally, I've been trying to prioritize reading over watching television; while I wouldn't sign myself up for a 24-hour, 100+ mile road race, I couldn't put down Dean Karnazes' memoir [*Ultramarathon Man*](https://www.goodreads.com/book/show/87632.Ultramarathon_Man), a fascinating account of his superhuman endurance pursuits. Next on the list? [*Doing Justice*](https://www.goodreads.com/en/book/show/43166269-doing-justice) by Preet Bharara. 
+
+All that being said, I'm always open to suggestions for great hiking spots, gardening advice, and book recommendations! 
 
 ### Contact me
 
