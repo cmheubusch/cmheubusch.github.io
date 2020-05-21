@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Professional & Academic Aspirations
 
-Thanks for stopping by my GitHub blog! I created this site in conjunction with the class **ST 558: Data Science for Statisticians**, which I am enrolled in as the final component of my coursework for the NCSU graduate certificate in Applied Statistics & Data Management. I work full-time in government relations as a grassroots associate, helping connect our association's members with their legislators while educating them about key issues. My hope is to one day become a policy director, working to develop pragmatic yet compassionate solutions through legislation, while furthering a meaningful cause. Knowledge of data science will help allow me to leverage data to make the best decisions possible and develop mechanisms that allow for equitable distribution of resources to in-need communities. I'm excited to engage with the material, collaborate with my fellow students, and take what we learn and apply it in my chosen profession! 
+Thanks for stopping by my GitHub blog! I created this site in conjunction with the class **ST 558: Data Science for Statisticians**, which I am enrolled in as the final component of my coursework for the NCSU graduate certificate in Applied Statistics & Data Management. I work full-time in government relations as a grassroots associate, helping connect our association's members with their legislators while educating them about key issues. My hope is to one day become a policy director, working to develop pragmatic yet compassionate solutions through legislation, while furthering a meaningful cause. Knowledge of data science will help allow me to communicate effectively and leverage data to make the best decisions possible and develop mechanisms that allow for equitable distribution of resources to in-need communities. I'm excited to engage with the material, collaborate with my fellow students, and take what we learn and apply it in my chosen profession! 
 
 ### My Hobbies & Dreams for the Future
 
@@ -14,9 +14,9 @@ Though free time is precious and COVID-19 has limited society's movement, I have
 
 ![Old Delhi, India, August 2016.](/images/old%20delhi%202016.png)
 
-In the near furture, I hope to explore more of the outdoors, including: 
+In the near future, I hope to explore more of the outdoors, including: 
 
-* The Smokies *- I moved to North Carolina nearly a year ago - it's high time that I explore this beautiful state!*
+* The Smokies *I moved to North Carolina nearly a year ago - it's high time that I explore this beautiful state!*
 * The Colorado Trail 
 * The John Muir Trail 
 * The Hayduke Trail
