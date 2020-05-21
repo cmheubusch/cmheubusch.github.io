@@ -14,7 +14,7 @@ Though free time is precious and COVID-19 has limited society's movement, I have
 
 ![Old Delhi, India, August 2016.](/images/old%20delhi%202016.png)
 
-![Glacier Hike, Iceland, June 2018.](https://raw.githubusercontent.com/cmheubusch/cmheubusch.github.io/master/images/iceland%202018.png)
+![Glacier Hike, Iceland, June 2018.](/images/iceland%202018.png)
 
 
 Within the next few years, I hope to have the opportunity to experience more of the outdoors, including: 
