@@ -10,13 +10,13 @@ Thanks for stopping by my GitHub blog! I created this site in conjunction with t
 
 ### On a Personal Note: My Hobbies & Dreams for the Future
 
-Though free time is precious and COVID-19 has limited society's movement, I have been steadily compiling my "travel wish list". (A somewhat less morbid alternative to the so-called "bucket list"!) Over the past several years, I've been on a tour of northern India, gone campervanning in Iceland, resided in London for a month - but my desire to see the world keeps growing, along with my desire to dive more deeply into nature. 
+Though free time is precious and COVID-19 has limited society's movement, I have been steadily compiling my "travel wish list". Over the past several years, I've been on a tour of northern India, gone campervanning in Iceland, resided in London for a month - but my desire to see the world keeps growing, along with my desire to dive more deeply into nature. 
 
 ![Old Delhi, India, August 2016.](/images/old%20delhi%202016.png)
 
-Within the next few years, I hope to have the opportunity to experience more of the outdoors, including: 
+In the near furture, I hope to explore more of the outdoors, including: 
 
-* The Smokies *- I moved to North Carolina less than a year ago, but it's high time that I explore this beautiful state.*
+* The Smokies *- I moved to North Carolina less than a year ago, and it's high time that I explore this beautiful state.*
 * The Colorado Trail 
 * The John Muir Trail 
 * The Hayduke Trail *- A wild challenge, but I can aspire!*
