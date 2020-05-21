@@ -10,7 +10,7 @@ Thanks for stopping by my GitHub blog! I created this site in conjunction with t
 
 ### On a Personal Note: My Hobbies & Dreams for the Future
 
-Though free time is precious and COVID-19 has limited society's movement, I have been steadily compiling my "travel wish list". (A somewhat less morbid-sounding "bucket list"!) Over the past several years, I've been on a tour of northern India and gone campervanning in Iceland - but my desire to see the world keeps growing, along with my desire to dive more deeply into nature. 
+Though free time is precious and COVID-19 has limited society's movement, I have been steadily compiling my "travel wish list". (A somewhat less morbid alternative to the so-called "bucket list"!) Over the past several years, I've been on a tour of northern India, gone campervanning in Iceland, resided in London for a month - but my desire to see the world keeps growing, along with my desire to dive more deeply into nature. 
 
 ![Old Delhi, India, August 2016.](/images/old%20delhi%202016.png)
 
