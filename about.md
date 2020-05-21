@@ -16,7 +16,9 @@ Though free time is precious and COVID-19 has limited society's movement, I have
 ```{r Image Details, graphics, echo=FALSE}
 knitr::include_graphics("/images/iceland 2018.png")
 ```
-
+```{r Image Details, graphics, out.width="100%", echo=FALSE}
+knitr::include_graphics("images/old delhi 2016.png")
+```
 
 Within the next few years, I hope to have the opportunity to experience more of the outdoors, including: 
 
