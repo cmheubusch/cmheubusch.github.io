@@ -12,6 +12,7 @@ Thanks for stopping by my GitHub blog! I created this site in conjunction with t
 
 Though free time is precious and COVID-19 has limited society's movement, I have been steadily compiling my "travel wish list". Over the past several years, I've been on a tour of northern India and gone campervanning in Iceland - but my desire to see the world keeps growing, along with my desire to dive more deeply into nature. 
 
+![Old Delhi, August 2016.](https://raw.githubusercontent.com/cmheubusch/cmheubusch.github.io/master/images/old%20delhi%202016.png)
 
 ```{r Image Details, graphics, echo=FALSE}
 knitr::include_graphics("/images/iceland 2018.png")
