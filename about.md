@@ -10,7 +10,15 @@ Thanks for stopping by my GitHub blog! I created this site in conjunction with t
 
 ### Hobbies & Dreams for the Future
 
-Over the past several years, I've been on a tour of northern India and gone campervanning in Iceland - but my desire to see the world keeps growing, along with my desire to dive more deeply into nature. Though free time is precious and COVID-19 has limited society's movement, I have been steadily compiling my "travel wish list". Within the next few years, I hope to have the opportunity to experience more of the outdoors, including: 
+Though free time is precious and COVID-19 has limited society's movement, I have been steadily compiling my "travel wish list". Over the past several years, I've been on a tour of northern India and gone campervanning in Iceland - but my desire to see the world keeps growing, along with my desire to dive more deeply into nature. 
+
+```{r Image Details, graphics, out.width="50%", echo=FALSE}
+knitr::include_graphics("/images/iceland 2018.png")
+```
+```{r Image Details, graphics, out.width="50%", echo=FALSE}
+knitr::include_graphics("images/old delhi 2016.png")
+```
+Within the next few years, I hope to have the opportunity to experience more of the outdoors, including: 
 
 * The Smokies *- I moved to North Carolina less than a year ago, but it's high time that I explore this beautiful state.*
 * The Colorado Trail 
