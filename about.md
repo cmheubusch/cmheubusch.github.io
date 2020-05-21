@@ -16,7 +16,8 @@ Though free time is precious and COVID-19 has limited society's movement, I have
 
 In the near future, I hope to explore more of the outdoors, including: 
 
-* The Smokies *I moved to North Carolina nearly a year ago - it's high time that I explore this beautiful state!*
+* The Smokies 
+    - I moved to North Carolina nearly a year ago - it's high time that I explore this beautiful state!
 * The Colorado Trail 
 * The John Muir Trail 
 * The Hayduke Trail
